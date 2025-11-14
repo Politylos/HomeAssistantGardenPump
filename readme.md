@@ -12,7 +12,7 @@ Within this Repo is code to allow a ESP8266 board to act as a IOT device to cont
 To connect to a Home Assistant server the following Arduino Library was used with it allowing for the creation of various devices through the Home Assistant MQTT integration. 
 
 
-[Home Assistant Arudio Libiry](https://docs.arduino.cc/libraries/home-assistant-integration/)
+[Home Assistant Arudio Library](https://docs.arduino.cc/libraries/home-assistant-integration/)
 
 
 Th schematic for the micro connections can be found in the supplied schematic in the repo.
